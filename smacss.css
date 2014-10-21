@@ -8,7 +8,7 @@
 	padding:0;
 }
 
-body{{background-image: url(comp.jpg);}
+body{background-image: url(comp.jpg);}
 
 nav{ position:absolute;
 bottom:0px;
@@ -73,21 +73,16 @@ p{margin-bottom:10px;}
 	margin:auto;
 	overflow:hidden; 
 	}
-.box-image{display:block;
-}
 
 	table #bark{
 width:250px;
 }
 table #leaves{
-width:250px;}
+width:250px;
+}
 
-.c-box {width:960px;
-	margin:auto;
-	overflow:hidden; 
-	}
-
-
+box .heropic {
+	position:relative;display:block;}
 
 /*Module*/
 section.content{{width:450px; 
@@ -100,11 +95,8 @@ section.content{{width:450px;
 	
 	.characteristics{color:white;}
 
-	.c-boxheader{position:relative;}
 	
 	
-	
-
 
 /*theme*/
 
