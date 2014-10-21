@@ -46,7 +46,20 @@ h2 {width:600px;
 	padding-top:60px;
 	background:none;
 	color:#FEF87B}
+td, th {
+border:3px solid black; 
+padding:5px;
+}
 
+table ul{margin-left:20px;}
+
+
+thead{
+background:#BEEA14;
+font-size:18px;
+text-transform:uppercase;
+color:# 0F0;
+}
 
 caption{}
 
@@ -67,7 +80,12 @@ p{margin-bottom:10px;}
 width:250px;
 }
 table #leaves{
-width:250px;
+width:250px;}
+
+.c-box {width:960px;
+	margin:auto;
+	overflow:hidden; 
+	}
 
 
 
@@ -82,7 +100,7 @@ section.content{{width:450px;
 	
 	.characteristics{color:white;}
 
-	
+	.c-boxheader{position:relative;}
 	
 	
 	
